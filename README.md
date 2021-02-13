@@ -3,8 +3,8 @@
 <img src="files/static/logoGit.png" />
 <br>
 <br>
-<img src="files/static/logoTelegram.png" height="30" />
-<img src="files/static/logoYoutube.png" height="30" />
+<a href="https://t.me/devops_mops"><img src="files/static/logoTelegram.png" height="30" /></a>
+<a href="https://www.youtube.com/channel/UCqC3c7UHtwoX2wy7fdHc6gg"><img src="files/static/logoYoutube.png" height="30" /></a>
 </p>
 <br>
 
