@@ -1,9 +1,10 @@
 <br>
 <p align="center">
-<img src="files/static/logoGit.png" height="100%" width="100%" />
+<img src="files/static/logoGit.png" />
 <br>
-<img src="files/static/logoTelegram.png" height="150" width="150" />
-<img src="files/static/logoYoutube.png" height="150" width="150" />
+<br>
+<img src="files/static/logoTelegram.png" height="30" />
+<img src="files/static/logoYoutube.png" height="30" />
 </p>
 <br>
 
