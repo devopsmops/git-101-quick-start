@@ -1,10 +1,12 @@
 <br>
 <p align="center">
-<img src="files/static/logoGit.png" />
+<img src="files/static/logoGit.png" width="448" height ="200" />
 <br>
+<img src="files/static/logoTitle.png" width="448" height="74" />
 <br>
-<a target="_blank" href="https://t.me/devops_mops"><img src="files/static/logoTelegram.png" height="30" /></a>
-<a target="_blank" href="https://www.youtube.com/channel/UCqC3c7UHtwoX2wy7fdHc6gg"><img src="files/static/logoYoutube.png" height="30" /></a>
+<a href="https://t.me/devops_mops"><img src="files/static/logoTelegram.png" width="159" height="159" /></a>
+<img src="files/static/space.png" width="15" />
+<a href="https://www.youtube.com/channel/UCqC3c7UHtwoX2wy7fdHc6gg"><img src="files/static/logoYoutube.png" width="224" height="159" /></a>
 </p>
 <br>
 
